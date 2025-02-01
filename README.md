@@ -19,12 +19,4 @@ Here’s a breakdown of the languages I use the most:
 
 This is mostly my personal setup, but if you have a cool idea or an improvement, PRs are welcome! Let’s build something awesome together. 🚀  
 
-## 🌐 Connect with Me  
-
-Find me on other platforms:  
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourtwitter)  
-- [Portfolio](https://yourwebsite.com)  
-
 Thanks for stopping by! Keep coding. 😎  
