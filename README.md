@@ -1,6 +1,6 @@
-# 🚀 Nav's GitHub Profile Configs  
+# 🚀 Nav's GitHub Profile   
 
-Hey there! 👋 Welcome to my GitHub profile config repo! This is where I keep things neat, organized, and looking sharp. ✨  
+Hey there! 👋 Welcome to my GitHub profile !   
 
 ## 📈 GitHub Stats  
 
@@ -8,20 +8,6 @@ Want to see what I've been up to? Check out my dynamically updated stats!
 
 [![Nav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneeth)](https://github.com/anuraghazra/github-readme-stats)  
 
-## 👀 Profile Views  
-
-Tracking who's stopping by—appreciate the visit! 🙏  
-
-![Profile Views](https://road-to-kaggle-grandmaster.vercel.app/api/simple/navneeth)  
-
-## 🗂 What's Inside?  
-
-This repo holds various configuration files for my GitHub profile setup, including:  
-
-- **`.github/`** → GitHub Actions, issue templates, and other community settings ⚙️  
-- **Other config files** → Tweaks & settings that keep my profile in top shape 🛠  
-
-Feel free to explore and check things out!  
 
 ## 🤝 Contributing  
 
