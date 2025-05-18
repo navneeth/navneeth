@@ -6,8 +6,6 @@ Hey there! 👋 Welcome to my GitHub profile !
 
 Want to see what I've been up to? Check out my dynamically updated stats!  
 
-[![Nav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneeth)](https://github.com/anuraghazra/github-readme-stats)  
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navneeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
