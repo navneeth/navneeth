@@ -1,9 +1,5 @@
 # 🚀 Nav's GitHub Profile
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=navneeth&label=Profile%20views&style=for-the-badge" alt="Profile views"/>
-</div>
-
 ---
 
 Hey there! 👋 Welcome to my GitHub profile!
@@ -15,6 +11,10 @@ Hey there! 👋 Welcome to my GitHub profile!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navneeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneeth&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=navneeth&theme=dark&show_icons=true&include_all_commits=true" alt="Navneeth Subramanian"/>
 </div>
 
 <div align="center">
@@ -33,9 +33,7 @@ Hey there! 👋 Welcome to my GitHub profile!
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=navneeth&theme=dark&show_icons=true&include_all_commits=true" alt="Navneeth Subramanian"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneeth&&theme=github-compact" alt="GitHub Activity Graph"/>
@@ -54,3 +52,7 @@ Let’s build something awesome together. 🚀
 
 Thanks for stopping by!  
 Keep coding. 😎
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=navneeth&label=Profile%20views&style=for-the-badge" alt="Profile views"/>
+</div>
