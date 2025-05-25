@@ -34,11 +34,6 @@ Hey there! 👋 Welcome to my GitHub profile!
 </div>
 
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneeth&&theme=github-compact" alt="GitHub Activity Graph"/>
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=navneeth&theme=algolia&column=-1" alt="GitHub Trophies"/>
 </div>
