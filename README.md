@@ -22,6 +22,20 @@ Here’s a breakdown of the languages I use the most:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneeth&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=navneeth&theme=dark&show_icons=true&include_all_commits=true" alt="Navneeth Subramanian"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navneeth&&theme=github-compact" alt="Nav's github activity graph"/>
+
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=navneeth&theme=algolia&column=-1" alt="Navneeth Subramanian" /></a> </p>
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navneeth&label=Profile%20views&style=for-the-badge" alt="Navneeth Subramanian"/>
+</p>
+<hr/>
+
 
 ## 🤝 Contributing  
 
