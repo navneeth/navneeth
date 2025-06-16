@@ -8,10 +8,6 @@ Hey there! 👋 Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navneeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneeth&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="GitHub Streak Stats"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=navneeth&theme=dark&show_icons=true&include_all_commits=true" alt="Navneeth Subramanian"/>
