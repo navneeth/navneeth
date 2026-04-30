@@ -51,7 +51,7 @@ Most of the repositories here are part of my personal engineering lab, but I am 
 * **Building something cool?** If you have an idea or an improvement for my CV or web tooling, PRs are always welcome.
 * **Let's connect:** I'm always open to discussing computer vision architecture or the future of AI-driven web frameworks.
 
-[LinkedIn](https://linkedin.com/in/navneeth) • [Twitter](https://twitter.com/navneeth) • [Email](mailto:navneeth.s@gmail.com)
+[LinkedIn](https://jp.linkedin.com/in/navneeth-subramanian-50b72a6) • [Twitter](https://twitter.com/navneeth) • [Email](mailto:navneeth.s@gmail.com)
 
 ---
 
