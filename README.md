@@ -6,14 +6,10 @@ I build high-performance camera systems by day and modern AI-driven web tools by
 ---
 
 ### 🛠 Principal Focus
-* **Computer Vision & ML:** Expert in camera calibration, object detection (YOLO/SSD), and performance tuning for embedded platforms (Bosch/Canon heritage).
-* **ViralVibes.fyi:** Scaling analytics for the creator economy using **FastHTML**, **Supabase**, and **Vercel**.
-* **Local-First Tooling:** Building scriptable interfaces for YouTube data and LLM-assisted workflows.
+* **Computer Vision & ML:** Expert in camera calibration, object detection, and performance tuning for embedded platforms.
+* **DL Vision Models:** Scaling models for the performace using **FastAI**, **Pytorch**, and **MMDetection**.
+* **Web Infrastructure:**: Deployment, DBs using **Supabase**, and **Vercel**.
 
-### 🔭 Current Projects
-- 📈 **[ViralVibes](https://viralvibes.fyi)** - Real-time YouTube trend analytics and creator revenue modeling.
-- 📐 **IB Math LaTeX Guides** - Open-source Grade 9 IB curriculum materials (Functions, Stats, Quadratics).
-- 🤖 **Low-Power CV** - Designing person-detectors using OmniVision sensors for automotive applications.
 
 ### 💻 Stack & Tools
 - **CV/ML:** Python, C++, OpenCV, PyTorch, CUDA.
@@ -38,7 +34,7 @@ I've spent more time perfecting my `zshrc` and LaTeX templates than I’d like t
 ---
 
 ### 🤝 Connect
-[LinkedIn](https://linkedin.com/in/navneeth) • [Twitter](https://twitter.com/navneeth) • [Email](mailto:navneeth@example.com)
+[LinkedIn](https://linkedin.com/in/navneeth) • [Twitter](https://twitter.com/navneeth) • [Email](mailto:navneeth.s@gmail.com)
 
 ---
 <div align="center">
